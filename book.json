@@ -1,0 +1,14 @@
+{
+    "plugins": [
+        "-header",
+        "-fontsetting",
+        "-sharing",
+        "theme-api",
+        "github"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/go2zo/setup"
+        }
+    }
+}
